@@ -2,7 +2,7 @@
 
 
 # print("\n"+"TASK ONE"+"\n\n\n")
-#  # i.e : yazdan *ghezelbash*alborz*karaj     +98935555555
+#  # i.e : Nima *talebi*alborz*karaj     +98935555555
 # st="login page"
 # print(st.upper())
 # print("\n")
